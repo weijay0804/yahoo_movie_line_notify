@@ -2,7 +2,7 @@
 
 使用爬蟲取得 Yahoo 電影資訊，並使用 line notify 發送。
 
-![成果範例](/image/img1.jpeg)
+![成果範例](/image/img1.jpg)
 
 ### 環境設定
 1. 安裝相關的套件
